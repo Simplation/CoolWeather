@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CoolWeather</string>
+    <string name="res_forecast">预报</string>
+    <string name="res_input_address">输入地址</string>
+    <string name="res_life_index">生活指数</string>
+    <string name="res_cold">感冒</string>
+    <string name="res_dressing">穿衣</string>
+    <string name="res_uv">实时紫外线</string>
+    <string name="res_car_wash">洗车</string>
+</resources>
